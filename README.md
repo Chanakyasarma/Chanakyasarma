@@ -21,8 +21,8 @@
  <table align="center">
  <tr>
   <th>
-   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chanakyasarma&show_icons=true&theme=radical&custom_title=&hide_border=true" />
-   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanakyasarma&theme=radical&hide_border=true" />
+   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chanakyasarma&show_icons=true&theme=dracula&custom_title=&hide_border=true" />
+   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanakyasarma&theme=dracula&hide_border=true" />
   </th>
  </tr>
  </table>
